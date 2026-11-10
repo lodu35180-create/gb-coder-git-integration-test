@@ -1,1 +1,3 @@
-# gb-coder-git-integration-test
+# GB Coder Integration Test
+
+Live acceptance run.
