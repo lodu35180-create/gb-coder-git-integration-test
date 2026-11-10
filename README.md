@@ -1,1 +1,0 @@
-# gb-coder-git-integration-test
